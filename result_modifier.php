@@ -7,6 +7,7 @@ if (!defined('B_PROLOG_INCLUDED') || B_PROLOG_INCLUDED !== true)
 use Bitrix\Main;
 //добавляем првоерку для гит
 //добавил изменение
+//ещё одно
 function currentRecord($userId, $tmstmp = false, $date) {
 
 	if($tmstmp == false):
