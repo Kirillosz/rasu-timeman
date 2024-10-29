@@ -10,6 +10,7 @@ use Bitrix\Main;
 //ещё одно
 //и ещё одно
 //добавили ещё
+//до кучи
 function currentRecord($userId, $tmstmp = false, $date) {
 
 	if($tmstmp == false):
