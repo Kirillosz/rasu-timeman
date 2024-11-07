@@ -2,7 +2,7 @@
 {
 	die();
 }
-
+//Пишу сюда изменение
 use Bitrix\Main\Localization\Loc;
 
 $startTimeInputName = $arResult['WORKTIME_RECORD_FORM_NAME'] . '[recordedStartTime]';
