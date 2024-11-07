@@ -4,7 +4,7 @@
 }
 //Пишу сюда изменение
 use Bitrix\Main\Localization\Loc;
-
+///dsdfdsfds
 $startTimeInputName = $arResult['WORKTIME_RECORD_FORM_NAME'] . '[recordedStartTime]';
 $endTimeInputName = $arResult['WORKTIME_RECORD_FORM_NAME'] . '[recordedStopTime]';
 $breakLengthInputName = $arResult['WORKTIME_RECORD_FORM_NAME'] . '[recordedBreakLengthTime]';
